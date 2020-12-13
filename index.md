@@ -1,5 +1,34 @@
-# EarthOL-BE
-### The #1 Earth Server in MCBE
+<html>
+    <head>
+       <meta charset="UTF-8"> 
+  <link rel="shortcut icon" href="http://www.runoob.com/images/tryitimg.gif" type="image/x-icon">
+  <!-- Begin Jekyll SEO tag v2.6.1 --> 
+  <title>EarthOL-BE MC Server</title> 
+  <meta name="generator" content="Jekyll v3.9.0"> 
+  <meta property="og:title" content="EarthOL-BE"> 
+  <meta property="og:locale" content="en_US"> 
+  <meta name="description" content="The #1 Minecraft BE Earth Server"> 
+  <meta property="og:description" content="The #1 Minecraft BE Earth Server"> 
+  <link rel="canonical" href="https://diamondda.github.io/md/win/"> 
+  <meta property="og:url" content="https://diamondda.github.io/md/win/"> 
+  <meta property="og:site_name" content="EarthOL-BE"> 
+  <script type="application/ld+json">
+{"description":"The #1 Minecraft BE Earth Server","@type":"WebPage","headline":"EarthOL-BE","url":"https://diamondda.github.io/eartholbe/","@context":"https://schema.org"}</script> 
+  <!-- End Jekyll SEO tag --> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="theme-color" content="#157878"> 
+  <link rel="stylesheet" href="/assets/css/style.css?v=90308206b772d7a0f3873277e2b5135ce00fb039"> 
+ </head> 
+ <body> 
+  <section class="page-header"> 
+   <h1 class="project-name">EarthOL-BE</h1> 
+   <h2 class="project-tagline">The #1 Minecraft BE Earth Server</h2> 
+  </section> 
+  <section class="main-content"> 
+        <meta name="msvalidate.01" content="E2F9B636AA1362C7342468A1AFF1C779" />
+<meta name="baidu-site-verification" content="code-fWGOTgGYlE"/>
+        <style> body{text-align:center}
+        </style> 
 <script>
 var _hmt = _hmt || [];
 (function() {
