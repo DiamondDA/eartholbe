@@ -1,2 +1,2 @@
 # EarthOL-BE
-# The #1 Earth Online Server in MCBE
+### The #1 Earth Server in MCBE
