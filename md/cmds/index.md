@@ -1,4 +1,4 @@
-[点我会主页](https://diamondda.github.io/eartholbe/)
+[# 点我回主页](https://diamondda.github.io/eartholbe/)
 # 这些命令全是操作员命令，普通玩家无法使用
 | 命令作用| 命令名称 |
 | ----- | ----------- |
